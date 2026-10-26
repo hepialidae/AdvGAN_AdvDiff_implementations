@@ -5,11 +5,11 @@ import torchvision.transforms as transforms
 from torch.utils.data import DataLoader
 from pathlib import Path
 
-from target_model_architecture import MNIST_classifier
-from train_target_model import train_model
-from vanilla_AdvGAN_architecture import Discriminator, Generator
-from UNet_AdvGAN import UNet_Generator
-from train_AdvGAN import AdvGAN_Attack
+from AdvGAN.target_model_architecture import MNIST_classifier
+from AdvGAN.train_target_model import train_model
+from AdvGAN.vanilla_AdvGAN_architecture import Discriminator, Generator
+from AdvGAN.UNet_AdvGAN import UNet_Generator
+from AdvGAN.train_AdvGAN import AdvGAN_Attack
 
 if __name__ == "__main__":
     print("Imports completed.")

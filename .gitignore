@@ -219,3 +219,8 @@ __marimo__/
 
 # Torchvision Datasets
 datasets/MNIST/raw/
+data/MNIST/raw
+
+# Models
+AdvGAN/models 
+AdvDiff/imagenet_checkpoint80
