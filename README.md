@@ -1,7 +1,7 @@
 # AdvGAN_AdvDiff_implementations
 Implementations of different AdvGAN architectures and AdvDiff, with a focus on readability and user-friendliness. 
 
-This is my final project for HKAGE's collaborative advanced education course with City University of Hong Kong on Machine Learning, Generative AI, and Cybersecurity. You can find the project poster in this repository and the [project video](https://youtu.be/L29EWSMs2Jo) on YouTube.
+This is my final project for HKAGE's collaborative advanced education course with City University of Hong Kong on Machine Learning, Generative AI, and Cybersecurity. You can find the project poster in this repository and the [project video](https://youtu.be/x1mRPsuePCc) on YouTube.
 
 The pre-trained [AdvGAN](https://huggingface.co/hepialidae/mnist_advgan) model and the [AdvDiff](https://huggingface.co/hepialidae/ImageNet_AdvDiff_80Epochs) model can be found on Hugging Face.
 
